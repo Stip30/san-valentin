@@ -32,7 +32,7 @@ export default function App() {
         {!showInvite ? (
           <>
             <h1 style={{ color: "#db2777" }}>
-              ¿Quieres ser mi San Valentín? 💖
+              Mi amor, Angie ¿Quieres ser mi San Valentín? 💖
             </h1>
 
             <div style={{
@@ -79,12 +79,12 @@ export default function App() {
             animate={{ opacity: 1, scale: 1 }}
           >
             <h2 style={{ color: "#db2777" }}>
-              💝 Invitación de San Valentín 💝
+              💝 Gracias por aceptar 💝
             </h2>
-            <p style={{ fontSize: "1.1rem" }}>
-              El 14 de febrero no nos podemos ver,
+            <p style={{ fontSize: "1.1rem", color: "blue" }}>
+              Se que el 14 de febrero no nos podemos ver,
               <br />
-              pero espera un regalo.
+              pero espera un regalo. Te mando un beso
               <br />
               <strong style={{ color: "#ec4899" }}>
                 Te amo ❤️
